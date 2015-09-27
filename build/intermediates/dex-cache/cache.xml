@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Sayor/Desktop/GItHub Projects/Tweeter/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/Sayor/Desktop/GItHub Projects/Tweeter/app/build/intermediates/pre-dexed/debug/classes-d256ca78ef156a241623379953ff9b25f07a3005.jar" />
+    </item>
+    <item
+        jar="/Users/Sayor/Desktop/GItHub Projects/Tweeter/app/libs/org.apache.http.legacy.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="fa331331b626ee78c52bea16ce1e34b39e666ce5">
+        <dex dex="/Users/Sayor/Desktop/GItHub Projects/Tweeter/app/build/intermediates/pre-dexed/debug/org.apache.http.legacy-3f7d4bf6c158dbb954f051b6697b556e015713e9.jar" />
+    </item>
+    <item
+        jar="/Users/Sayor/Desktop/GItHub Projects/Tweeter/app/libs/codepath-oauth-0.4.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e2bf2d92cfe90d44287c510d955d0c979631e99e">
+        <dex dex="/Users/Sayor/Desktop/GItHub Projects/Tweeter/app/build/intermediates/pre-dexed/debug/codepath-oauth-0.4.1-a0378a1cc28ccbfd945e9f273ebc2ceca9c4a80f.jar" />
+    </item>
+    <item
+        jar="/Users/Sayor/.gradle/caches/modules-2/files-2.1/com.michaelpardo/activeandroid/3.1.0-SNAPSHOT/4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08/activeandroid-3.1.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08">
+        <dex dex="/Users/Sayor/Desktop/GItHub Projects/Tweeter/app/build/intermediates/pre-dexed/debug/activeandroid-3.1.0-SNAPSHOT-c745fe043a17a0da5a924865916935790a7098eb.jar" />
+    </item>
+    <item
+        jar="/Users/Sayor/Desktop/GItHub Projects/Tweeter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/Sayor/Desktop/GItHub Projects/Tweeter/app/build/intermediates/pre-dexed/debug/classes-6214d87dd63196a138a0f205727f21e9069b7fe8.jar" />
+    </item>
+    <item
+        jar="/Users/Sayor/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.8/77bbfe240e437ecb396d982afa0d3bd4f9090ba7/android-async-http-1.4.8.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="77bbfe240e437ecb396d982afa0d3bd4f9090ba7">
+        <dex dex="/Users/Sayor/Desktop/GItHub Projects/Tweeter/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.8-75fb64faed30ed3281413645fedee491ce5d2ffb.jar" />
+    </item>
+    <item
+        jar="/Users/Sayor/Desktop/GItHub Projects/Tweeter/app/libs/scribe-codepath-0.0.3.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a580d06de954001f787e8d024bfcf931fe30bdda">
+        <dex dex="/Users/Sayor/Desktop/GItHub Projects/Tweeter/app/build/intermediates/pre-dexed/debug/scribe-codepath-0.0.3-e2b1f874a93188b7415d8b07e668b42901e37039.jar" />
+    </item>
+    <item
+        jar="/Users/Sayor/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/Sayor/Desktop/GItHub Projects/Tweeter/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-b8ac261b68f4ca89c2d13f3d6354be58b0299e40.jar" />
+    </item>
+    <item
+        jar="/Users/Sayor/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/Sayor/Desktop/GItHub Projects/Tweeter/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-44943d68d339f065ab4d277c1eeba3e5657ebb27.jar" />
+    </item>
+    <item
+        jar="/Users/Sayor/Desktop/GItHub Projects/Tweeter/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/Sayor/Desktop/GItHub Projects/Tweeter/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-6e67a84a4826a56afeca37dc14c6a572fa3e7399.jar" />
+    </item>
+    <item
+        jar="/Users/Sayor/Desktop/GItHub Projects/Tweeter/app/libs/codepath-utils.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="10901a5ef726eacf1b2443b7f38dc4cc9cd3f7d4">
+        <dex dex="/Users/Sayor/Desktop/GItHub Projects/Tweeter/app/build/intermediates/pre-dexed/debug/codepath-utils-fecde7a88d72df5edac1b4823c196c926adfa2fb.jar" />
+    </item>
+
+</items>
